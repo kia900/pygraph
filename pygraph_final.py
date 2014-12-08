@@ -10,7 +10,7 @@
 #Make sure to have the graphics library file 'http://mcsp.wartburg.edu/zelle/python/graphics.py'
 #and relevent text files generated from clustalw2 and UCL 'http://bioinf.cs.ucl.ac.uk'
 #in your working directory.
-#If any file is not provided, comment-out the draw function at the bottom of the page.
+#For any file not provided, comment-out the draw function at the bottom of the page.
 
 from graphics import *
 
